@@ -249,6 +249,16 @@ body{
     color: #718096;
 }
 
+.visitors-box{
+    border: 1px solid #ccc;
+}
+
+.counter{
+    font-size: 1.2rem;
+    text-align: center;
+
+}
+
 /* Media Queries*/
 
 @media screen and (max-width: 823px){
